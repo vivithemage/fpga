@@ -1,0 +1,27 @@
+
+*** Running ngdbuild
+    with args -intstyle ise -p xc6slx9tqg144-2 -dd _ngo -uc mojo_top_0.ucf mojo_top_0.edf
+
+
+Command Line: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/ngdbuild -intstyle
+ise -p xc6slx9tqg144-2 -dd _ngo -uc mojo_top_0.ucf mojo_top_0.edf
+
+Executing edif2ngd -quiet "mojo_top_0.edf" "_ngo/mojo_top_0.ngo"
+/usr/bin/fish: /opt/Xilinx/14.7/ISE_DS/ISE//lib/lin64/libstdc++.so.6: version
+`GLIBCXX_3.4.20' not found (required by /usr/bin/fish)
+/usr/bin/fish: /opt/Xilinx/14.7/ISE_DS/ISE//lib/lin64/libstdc++.so.6: version
+`GLIBCXX_3.4.15' not found (required by /usr/bin/fish)
+ERROR:NgdBuild:276 - edif2ngd exited with errors (return code 1).
+ERROR:NgdBuild:28 - edif2ngd did not successfully complete.  Please check
+   preceding errors for root cause.
+Total REAL time to NGDBUILD completion:  3 sec
+Total CPU time to NGDBUILD completion:   1 sec
+
+Writing NGDBUILD log file "mojo_top_0.bld"...
+
+*** Running map
+    with args -intstyle pa -w -pr b -mt on mojo_top_0.ngd
+
+ERROR:Map:92 - NGD file "mojo_top_0.ngd" not found.
+
+

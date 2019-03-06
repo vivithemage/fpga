@@ -1,0 +1,8 @@
+INTSTYLE=pa
+INFILE=/home/vivi/development/fpga/test1/work/planAhead/test1/test1.runs/impl_1/mojo_top_0_routed.ncd
+OUTFILE=/home/vivi/development/fpga/test1/work/planAhead/test1/test1.runs/impl_1/mojo_top_0.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=/home/vivi/development/fpga/test1/work/planAhead/test1/test1.runs/impl_1
+LICENSE=WebPack
+USER_INFO=211044343_0_0_519

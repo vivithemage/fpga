@@ -1,0 +1,8 @@
+verilog work "/home/vivi/development/fpga/first_project/work/planAhead/first_project/first_project.srcs/sources_1/imports/verilog/uart_tx.v"
+verilog work "/home/vivi/development/fpga/first_project/work/planAhead/first_project/first_project.srcs/sources_1/imports/verilog/uart_rx.v"
+verilog work "/home/vivi/development/fpga/first_project/work/planAhead/first_project/first_project.srcs/sources_1/imports/verilog/spi_slave.v"
+verilog work "/home/vivi/development/fpga/first_project/work/planAhead/first_project/first_project.srcs/sources_1/imports/verilog/hello_world_rom.v"
+verilog work "/home/vivi/development/fpga/first_project/work/planAhead/first_project/first_project.srcs/sources_1/imports/verilog/cclk_detector.v"
+verilog work "/home/vivi/development/fpga/first_project/work/planAhead/first_project/first_project.srcs/sources_1/imports/verilog/greeter.v"
+verilog work "/home/vivi/development/fpga/first_project/work/planAhead/first_project/first_project.srcs/sources_1/imports/verilog/avr_interface.v"
+verilog work "/home/vivi/development/fpga/first_project/work/planAhead/first_project/first_project.srcs/sources_1/imports/verilog/mojo_top.v"

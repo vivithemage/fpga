@@ -1,0 +1,8 @@
+INTSTYLE=pa
+INFILE=/home/vivi/development/fpga/random/work/planAhead/random/random.runs/impl_1/mojo_top_routed.ncd
+OUTFILE=/home/vivi/development/fpga/random/work/planAhead/random/random.runs/impl_1/mojo_top.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=/home/vivi/development/fpga/random/work/planAhead/random/random.runs/impl_1
+LICENSE=WebPack
+USER_INFO=211044343_0_0_519
